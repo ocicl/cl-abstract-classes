@@ -5,5 +5,5 @@ Abstract, Final, and Singleton Metaclasses for CLOS
 |---------+--------------------------------------------------------------------------------------------|
 | source  | file:http://beta.quicklisp.org/archive/cl-abstract-classes/2019-03-07/cl-abstract-classes-20190307-hg.tgz |
 | version | 20190307-hg                                                                                        |
-| systems | abstract-classes                                                                           |
+| systems | abstract-classes singleton-classes                                                         |
 |---------+--------------------------------------------------------------------------------------------|
